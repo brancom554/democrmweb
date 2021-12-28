@@ -1,0 +1,51 @@
+html {
+  background-color: white !important;
+}
+
+.phoneOutline {
+  background-image: url("./nexusFive.png");
+  background-repeat: no-repeat;
+  display: block;
+  margin: 5px auto;
+  width: 750px;
+  height: 1200px;
+  position: relative;
+  background-position: center; 
+}
+
+.newUrlForm {
+  margin: 20px 10%;
+}
+
+iframe {
+  height: 200%;
+  width: 200%;
+}
+
+.iframeWrapper {
+  position: absolute;
+  left: 127px;
+  top: 157px;
+  height: 411px;
+  width: 249px;
+}
+
+.backButton {
+  position: absolute;
+  left: 55px;
+  height: 79px;
+  width: 190px;
+}
+
+.backButton:hover {
+  cursor: pointer;
+}
+
+.appContainer {
+  margin: 0 auto;
+}
+
+div {
+  margin: 0 auto;
+}
+
